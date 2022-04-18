@@ -1470,6 +1470,11 @@ laptop - 1280px
         margin-top: -5%;
     }
 
+    .glide__slide{
+        width: 90vw;
+        height: 70vh;
+    }
+
     /*========SKILLS & EXPERIENCE=========*/
     .skillsExperience{
         height: 110vh;
